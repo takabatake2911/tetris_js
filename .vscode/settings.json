@@ -1,0 +1,31 @@
+{
+"terminal.integrated.fontSize": 22,
+"editor.tabSize": 4,
+"editor.fontSize": 20,
+"editor.lineHeight": 1.2,
+"editor.fontFamily": "Ricty",
+"editor.lineNumbers": "off",
+"editor.formatOnSave": true,
+"prettier.tabWidth": 4,
+"[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "editor.suggest.insertMode": "replace"
+},
+"[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"[javascript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"liveServer.settings.donotShowInfoMsg": true,
+"emmet.variables": {
+    "lang": "ja"
+},
+"editor.wordWrap": "on",
+"liveServer.settings.donotVerifyTags": true,
+"window.zoomLevel": 0
+}
